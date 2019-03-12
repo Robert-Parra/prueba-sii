@@ -1,0 +1,7 @@
+C:\Proyectos\seguros_fala\capanegocio\obj\Debug\capanegocio.csprojResolveAssemblyReference.cache
+C:\Proyectos\seguros_fala\capanegocio\bin\Debug\capanegocio.dll
+C:\Proyectos\seguros_fala\capanegocio\bin\Debug\capanegocio.pdb
+C:\Proyectos\seguros_fala\capanegocio\bin\Debug\capadata.dll
+C:\Proyectos\seguros_fala\capanegocio\bin\Debug\capadata.pdb
+C:\Proyectos\seguros_fala\capanegocio\obj\Debug\capanegocio.dll
+C:\Proyectos\seguros_fala\capanegocio\obj\Debug\capanegocio.pdb

@@ -1,0 +1,5 @@
+C:\Proyectos\seguros_fala\capadata\bin\Debug\capadata.dll
+C:\Proyectos\seguros_fala\capadata\bin\Debug\capadata.pdb
+C:\Proyectos\seguros_fala\capadata\obj\Debug\capadata.csprojResolveAssemblyReference.cache
+C:\Proyectos\seguros_fala\capadata\obj\Debug\capadata.dll
+C:\Proyectos\seguros_fala\capadata\obj\Debug\capadata.pdb

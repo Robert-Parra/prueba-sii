@@ -1,0 +1,155 @@
+﻿body {
+}
+
+.ventana {
+    margin: auto;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: #2782b0;
+    opacity: 0.9;
+    z-index: 1;
+}
+
+.modaluno {
+    position: absolute;
+    padding-top: 100px;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.6);
+}
+
+.modalrecuperarcontraseña {
+    position: absolute;
+    padding-top: 3%;
+    width: 10%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.6);
+}
+
+.modal1 {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0%;
+    border: 1px solid #888;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+}
+
+.modal1recuperrarcontraseña {
+    margin: auto;
+    padding: 0%;
+    border: 1px solid #888;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+}
+
+.modalheader {
+    padding: 2px 16px;
+    background: -webkit-linear-gradient(top, rgb(17, 73, 91) 0%,#BCD3EB 100%);
+    background: -moz-linear-gradient(top, #5A9CD4 0%,#5A9CD4 100%);
+    background: -o-linear-gradient(top, #5A9CD4 0%,#5A9CD4 100%);
+    background: linear-gradient(top, #5A9CD4 0%,#5A9CD4 100%);
+    color: white;
+}
+
+.modalbody {
+    padding: 2px 16px;
+}
+
+.contenido_body {
+    align-content: center;
+    align-items: center;
+}
+
+.modalfooter {
+    width: 100%;
+    padding: 10px;
+    background: -webkit-linear-gradient(top, #bdcddb 0%,#BCD3EB 100%);
+    background: -moz-linear-gradient(top, #5A9CD4 0%,#5A9CD4 100%);
+    background: -o-linear-gradient(top, #5A9CD4 0%,#5A9CD4 100%);
+    background: linear-gradient(top, white 0%,#5A9CD4 100%);
+    color: white;
+}
+
+.btnfooterModalright {
+    margin-left: 45%;
+    display: inline-block;
+    text-align: center;
+    background: -webkit-linear-gradient(top, rgb(17, 73, 91) 0%,#BCD3EB 100%);
+    border-radius: 7px;
+    border-color: #888;
+    border: 0px solid;
+    padding: 9px;
+    width: 120PX;
+}
+
+.btnfooterModalleft {
+    margin-left: 10%;
+    display: inline-block;
+    text-align: center;
+    background: -webkit-linear-gradient(top, rgb(17, 73, 91) 0%,#BCD3EB 100%);
+    border-radius: 7px;
+    border-color: #888;
+    border: 0px solid;
+    padding: 9px;
+    width: 120px;
+}
+
+.TxtFormuario {
+    display: flex;
+    width: 80%;
+    border: solid 2px;
+    border-color: #abaab5;
+    border-radius: 6px;
+    color: black;
+}
+
+.txtacompañado {
+    display: inline-block;
+    border: solid 2px;
+    border-color: #abaab5;
+    border-radius: 6px;
+    color: black;
+}
+
+.lblacompañado {
+    display: inline-block;
+    width: 120px;
+}
+
+.Drpacompañado {
+    color: black;
+    display: inline-block;
+    width: 100px;
+}
+
+.drp {
+    width: 125px;
+    color: black;
+}
+
+.lblformulario {
+    display: block;
+}
+
+.divfiltros {
+    align-content: center;
+}
+
+.contenedorview {
+}

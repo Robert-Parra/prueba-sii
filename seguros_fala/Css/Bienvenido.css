@@ -1,0 +1,170 @@
+﻿body {
+    width: 100%;
+    background-color: #0a3058;
+    padding: 150px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div ul {
+    list-style: none;
+}
+
+    div ul li a {
+        color: #FFF;
+        text-decoration: none;
+        padding: 20px;
+        display: block;
+    }
+
+.limenu {
+    display: inline-block;
+    text-decoration: none;
+    width: 170px;
+}
+
+div ul li a:hover {
+    background-color: #0f185e;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.menunavegacion {
+    background-color: black;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.iniciarSesion {
+    float: right;
+}
+
+.logo {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.texto {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+.imagenes {
+    align-content: center;
+    justify-content: center;
+}
+
+.tituloleft {
+    left: 0%;
+    color: black;
+    font-size: 60px;
+}
+
+.titulocontacto {
+    margin:auto;
+    color: #808080;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+.divtituloscentrado {
+    margin:auto;
+    align-content: center;
+    display: -webkit-box;
+    display: flex;
+    display: -ms-flexbox;
+    justify-content: center;
+}
+
+
+.tituloCentrado {
+    font-size: 60px;
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+.titulomodal {
+    color: #142156;
+    margin: auto;
+    display: block;
+    right: 100%;
+}
+
+.imagenmaps {
+    align-content:center;
+    align-items:center;
+ margin:auto
+}
+
+.modalinicarsesion {
+    position: absolute;
+    background-color: aqua;
+    width: 500px;
+    height: 400px;
+    top: 50%;
+    left: 50%;
+    border: solid #FFF 10px;
+}
+
+.cont-slider-eventos {
+    padding: 20px 50px;
+    margin-bottom: 50px;
+}
+
+ul#caledario-eventos-slider {
+    padding: 0px 20px !important;
+    position: relative;
+}
+
+.super-cont-evento {
+    height: 180px;
+    position: relative;
+    background-position: center center;
+}
+
+.evento-fecha {
+    font-size: 14px;
+    color: #fff;
+    font-family: 'akrobatregular';
+}
+
+.evento-descripcion {
+    font-size: 16px;
+    color: #fff;
+    font-family: 'akrobatregular';
+    max-height: 45px;
+    overflow: hidden;
+}
+
+
+.cont-info-evento {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 10px;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…IgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 17%, rgba(0, 0, 0, 0.27) 23%, rgba(0, 0, 0, 0.34) 29%, #000000 83%, #000000 97%, #000000 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(17%, rgba(0, 0, 0, 0.2)), color-stop(23%, rgba(0, 0, 0, 0.27)), color-stop(29%, rgba(0, 0, 0, 0.34)), color-stop(83%, #000000), color-stop(97%, #000000), color-stop(100%, #000000));
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 17%, rgba(0, 0, 0, 0.27) 23%, rgba(0, 0, 0, 0.34) 29%, #000000 83%, #000000 97%, #000000 100%);
+    background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 17%, rgba(0, 0, 0, 0.27) 23%, rgba(0, 0, 0, 0.34) 29%, #000000 83%, #000000 97%, #000000 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 17%, rgba(0, 0, 0, 0.27) 23%, rgba(0, 0, 0, 0.34) 29%, #000000 83%, #000000 97%, #000000 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#000000', GradientType=0);
+    -webkit-transition: height 1s;
+    -moz-transition: height 1s;
+    -o-transition: height 1s;
+    transition: height 1s;
+    overflow: hidden;
+    height: 80px;
+}
